@@ -27,5 +27,4 @@ dataset = load_dataset("https://dweb.link/ipfs/bafybeife7x5l2mzfsbkhfraltoj2obun
 ```
 
 ## License
-
-MIT
+- MIT
