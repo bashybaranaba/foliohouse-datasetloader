@@ -25,3 +25,7 @@ from foliohouse import load_dataset
 
 dataset = load_dataset("https://dweb.link/ipfs/bafybeife7x5l2mzfsbkhfraltoj2obun6wh5n74mxm7hr22mah3pkxdhb4/dataset")
 ```
+
+## License
+
+MIT
