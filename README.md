@@ -3,7 +3,7 @@
 A lightweight library for downloading and pre-processing datasets available on the Foliohouse datasets hub
 
 ## Installation
-### with pip
+### With pip
 The Foliohouse library can be installed from PyPi 
 ```shell
 pip install foliohouse
