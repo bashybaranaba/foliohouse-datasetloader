@@ -1,6 +1,6 @@
 # foliohouse-datasetloader
 
-A lightweight python library for interacting, downloading and pre-processing datasets available on the Foliohouse datasets hub
+A lightweight python library for interacting, downloading and pre-processing datasets available on the [Foliohouse](https://github.com/bashybaranaba/foliohouse) datasets hub
 
 ## Installation
 
